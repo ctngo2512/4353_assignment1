@@ -1,6 +1,8 @@
 1.  Discuss your initial thoughts in details on how you will design this application? (2 points)
 Our group will be using Javascript for both front and back end and React to build the user interface.
 
+For our database, we will be using Google Firebase to store client information and their fuel quote history.
+
 2.  Discuss what development methodology you will use and why? (2 points)
 
 
