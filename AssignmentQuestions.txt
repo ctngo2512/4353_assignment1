@@ -3,7 +3,21 @@ Our group will be using Javascript for both front and back end and React to buil
 
 For our database, we will be using Google Firebase to store client information and their fuel quote history.
 
+We need to take this step by step 
+	- decide how to host the website
+	- create a database to store the information required
+	- create the login interface and then the create profile page (this is similar to registration)
+	- the more in depth profile page after logging in
+	- a dashboard for profile, fuel quote history, price model
+	- create the history page and the model page
+
 2.  Discuss what development methodology you will use and why? (2 points)
+We have elected to use the Rapid Application Development methodology
+	- we decided to do this because it was a straight forward methodology that fits are needs well
+	- we are first defining our project requirements 
+	- then creating a prototype 
+	- and then building more off that 
+	- it fits well with the future assignments as well 
 
 
 3.  Provide high level design / architecture of your solution that you are proposing? (6 points)
