@@ -21,6 +21,8 @@ We have elected to use the Rapid Application Development methodology
 
 
 3.  Provide high level design / architecture of your solution that you are proposing? (6 points)
+Separate PDF included
 
 
 4. 4. IMPORTANT: list who did what within the group. TAs should be able to validate in GitHub, otherwise team members who didn't contribute will receive a ZERO.
+Christopher suggested that we use Javascript and React because he is familiar with Javascript already. Christopher also came up with the steps for the initial thoughts to design the application. Jordan chose the RAD methodology and using Firebase for the database and Chi made the architecture diagram.
