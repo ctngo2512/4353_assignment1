@@ -1,4 +1,4 @@
-1.  Discuss your initial thoughts in details on how you will design this application? (2 points)
+1.  Discuss your initial thoughts in details on how you will design this application? (2 points) - (Chi, Chris, and Jordan)
 Our group will be using Javascript for both front and back end and React to build the user interface.
 
 For our database, we will be using Google Firebase to store client information and their fuel quote history.
@@ -11,7 +11,7 @@ We need to take this step by step
 	- a dashboard for profile, fuel quote history, price model
 	- create the history page and the model page
 
-2.  Discuss what development methodology you will use and why? (2 points)
+2.  Discuss what development methodology you will use and why? (2 points) - (Chi, Chris, and Jordan)
 We have elected to use the Rapid Application Development methodology
 	- we decided to do this because it was a straight forward methodology that fits are needs well
 	- we are first defining our project requirements 
@@ -20,7 +20,7 @@ We have elected to use the Rapid Application Development methodology
 	- it fits well with the future assignments as well 
 
 
-3.  Provide high level design / architecture of your solution that you are proposing? (6 points)
+3.  Provide high level design / architecture of your solution that you are proposing? (6 points) - (Chi)
 Separate PDF included
 
 
