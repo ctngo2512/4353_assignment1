@@ -1,3 +1,6 @@
+Group 2: Jordan Foster, Chi Ngo, Christopher Randall
+4353 Assignment 1
+
 1.  Discuss your initial thoughts in details on how you will design this application? (2 points) - (Chi, Chris, and Jordan)
 Our group will be using Javascript for both front and back end and React to build the user interface.
 
